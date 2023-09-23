@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{a3a13fbf-12e6-40b6-b6be-8380c0a38d7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="原始程式檔\Shader">
+      <UniqueIdentifier>{c0f375a0-d333-4a53-b814-87fb1e9c0a36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="InitShader.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\common.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\Timer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CQuad.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CQuadEX1.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CQuadEX2B.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCQuad.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CShape.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Example4_cc.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCCircle.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCTri.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCCane.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CObject.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CBullet.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CPlayer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CShield.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CMissle.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CBackground.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CMarshmellow.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCJelly.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCCone.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCDonut.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCRoundrect.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCWaffle.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCCherrystick.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CJelly.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CCandycane.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CEBullet.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CLollipop.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CDonut.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CHpbar.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CIcecream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header\Angel.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\CheckError.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\mat.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\vec.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\Timer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CQuad.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CQuadEX1.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CQuadEX2B.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCQuad.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CShape.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCCircle.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCTri.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCCane.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CObject.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CBullet.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CPlayer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CShield.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CMissle.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CBackground.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CMarshmellow.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCJelly.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCCone.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCDonut.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCRoundrect.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCWaffle.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCCherrystick.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CJelly.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CCandycane.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CEBullet.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CLollipop.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CDonut.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CHpbar.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CIcecream.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fsVtxColor.glsl">
+      <Filter>原始程式檔\Shader</Filter>
+    </None>
+    <None Include="vsVtxColor.glsl">
+      <Filter>原始程式檔\Shader</Filter>
+    </None>
+    <None Include="vsVtxColorEX2.glsl">
+      <Filter>原始程式檔\Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>
