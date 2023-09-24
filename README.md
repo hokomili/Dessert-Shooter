@@ -39,7 +39,7 @@ __第一階段:__
 * summons marshmallows
 * 召喚棉花軟糖
 * does not move
-* 不會動
+* 不會動  
 **2. phase 2:**  
 __第二階段:__  
 ![lollipop2](https://github.com/hokomili/Dessert-Shooter/assets/28939939/e06db414-2fde-4ed1-9273-8f0c5ea14f8e)  
@@ -50,7 +50,7 @@ __第二階段:__
 * eyes turn red
 * 眼睛變紅
 * move left and right rapidly
-* 劇烈的左右移動
+* 劇烈的左右移動  
 **3. phase 3:**  
 __第三階段:__  
 ![lollipop3](https://github.com/hokomili/Dessert-Shooter/assets/28939939/fa78372d-b068-4552-9dbc-b496d860d349)
@@ -61,4 +61,4 @@ __第三階段:__
 * stick of the lollipop disappeared
 * 棒棒糖的棒子消失
 * move in a weird pattern rapidly
-* 劇烈的以奇怪的路徑移動
+* 劇烈的以奇怪的路徑移動  
